@@ -1,6 +1,3 @@
 [submodule "atmega-spi"]
 	path = atmega-spi
 	url = https://github.com/ddening/atmega-spi.git
-[submodule "servo-demo"]
-	path = servo-demo
-	url = https://github.com/ddening/servo-demo.git
