@@ -1,3 +1,6 @@
 [submodule "spi"]
 	path = spi
 	url = https://github.com/ddening/spi.git
+[submodule "queue"]
+	path = queue
+	url = https://github.com/ddening/queue.git
