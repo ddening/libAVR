@@ -4,6 +4,6 @@
 [submodule "queue"]
 	path = queue
 	url = https://github.com/ddening/queue.git
-[submodule "libAVR/ringbuffer"]
-	path = libAVR/ringbuffer
+[submodule "ringbuffer"]
+	path = ringbuffer
 	url = https://github.com/ddening/ringbuffer.git
