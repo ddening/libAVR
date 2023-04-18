@@ -7,3 +7,12 @@
 [submodule "ringbuffer"]
 	path = ringbuffer
 	url = https://github.com/ddening/ringbuffer.git
+[submodule "stk600-switches"]
+	path = stk600-switches
+	url = https://github.com/ddening/stk600-switches.git
+[submodule "w204-xlg"]
+	path = w204-xlg
+	url = https://github.com/ddening/w204-xlg.git
+[submodule "i2c"]
+	path = i2c
+	url = https://github.com/ddening/i2c.git
