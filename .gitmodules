@@ -19,3 +19,6 @@
 [submodule "uart"]
 	path = uart
 	url = https://github.com/ddening/uart.git
+[submodule "utility"]
+	path = utility
+	url = https://github.com/ddening/utility.git
