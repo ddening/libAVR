@@ -16,3 +16,6 @@
 [submodule "i2c"]
 	path = i2c
 	url = https://github.com/ddening/i2c.git
+[submodule "uart"]
+	path = uart
+	url = https://github.com/ddening/uart.git
