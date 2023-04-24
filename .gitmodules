@@ -22,3 +22,6 @@
 [submodule "utility"]
 	path = utility
 	url = https://github.com/ddening/utility.git
+[submodule "hd44780"]
+	path = hd44780
+	url = https://github.com/ddening/hd44780.git
