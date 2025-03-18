@@ -15,7 +15,6 @@ Include the required headers in your code:
 #include "i2c.h"
 #include "spi.h"
 #include "uart.h"
-#include "gpio.h"
 ```
 
 ## 📝 License
