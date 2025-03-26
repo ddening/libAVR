@@ -17,5 +17,5 @@ Include the required headers in your code:
 #include "uart.h"
 ```
 
-## 📝 License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
